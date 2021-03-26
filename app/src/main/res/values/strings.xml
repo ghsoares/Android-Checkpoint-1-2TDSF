@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Checkpoint</string>
+    <string name="buttonCalculadoraText">Calculadora</string>
+    <string name="buttonContaTelefonicaText">Conta Telefônica</string>
+    <string name="buttonIntegrantesText">Integrantes</string>
+    <string name="calculadoraValor1Text">Valor 1</string>
+    <string name="calculadoraValor2Text">Valor 2</string>
+    <string name="operacaoTextViewText">Operação</string>
+    <string name="operacaoSomaText">Soma</string>
+    <string name="operacaoSubtracaoText">Subtração</string>
+    <string name="operacaoMultiplicacaoText">Multiplicação</string>
+    <string name="operacaoDivisaoText">Divisão</string>
+    <string name="buttonCalcularText">Calcular</string>
+    <string name="assinaturaText">Assinatura</string>
+    <string name="minutosChamadaLocalText">Minutos Chamada Local</string>
+    <string name="minutosChamadaCelularText">Minutos Chamada Celular</string>
+    <string name="assinaturaResultText">Assinatura</string>
+    <string name="chamadaLocalResultText">Chamada Local</string>
+    <string name="chamadaCelularResultText">Chamada Celular</string>
+    <string name="contaTelefonicaValorTotalResultText">Valor Total</string>
+</resources>
